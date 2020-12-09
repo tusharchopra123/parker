@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 886 725" style="enable-background:new 0 0 886 725;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0C2635;}
+	.st1{fill:none;stroke:#000000;stroke-width:1.0535;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:1.2344;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:1.2705;stroke-miterlimit:10;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#C7D3DF;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#8098B1;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#EEF2F5;}
+	.st7{fill:none;}
+	.st8{fill:#C7D3DF;}
+</style>
+<g id="Layer_2">
+	<rect x="-0.5" y="-0.5" class="st0" width="886.5" height="725"/>
+</g>
+<g id="Layer_1">
+	<g>
+		<polyline class="st1" points="405.5,62.93 405.5,63.01 405.5,320.5 		"/>
+	</g>
+	<line class="st2" x1="526" y1="724.5" x2="525.5" y2="724.5"/>
+	<line class="st2" x1="525.5" y1="463.45" x2="525.5" y2="404.32"/>
+	<line class="st3" x1="526" y1="601.5" x2="525.5" y2="601.5"/>
+	<path class="st4" d="M525,637.79V639H294v-67h0.5V320.5h99v146.91l-9.08-0.26l9.08,11.02v0.32c0.09,0,0.18,0.01,0.27,0.01
+		L525,637.79z"/>
+	<path class="st5" d="M525,463.45v174.34L393.77,478.5c-0.09,0-0.17-0.01-0.26-0.01L393.5,466V320.5h11.76v157.99
+		c5.49,0.3,11,0.47,16.57,0.5c0.7,0.01,1.41,0.01,2.11,0.01c7.54,0,15-0.24,22.38-0.73c24.8-1.61,48.63-5.89,71.03-12.46
+		C519.92,465.06,522.47,464.27,525,463.45z"/>
+	<path class="st6" d="M760,270.75c0,87.03-87.79,161.59-212.45,192.7c-3.27,0.82-6.54,1.61-9.85,2.36
+		c-4.19,0.96-8.43,1.87-12.7,2.72c-25.07,5.04-51.42,8.36-78.68,9.74c-8.08,0.41-16.25,0.65-24.49,0.72c-1.43,0-2.86,0.01-4.3,0.01
+		c-7.98,0-15.9-0.17-23.76-0.5c-0.09,0-0.18-0.01-0.27-0.01V63.01c7.95-0.34,15.96-0.51,24.03-0.51
+		C606.67,62.5,760,155.73,760,270.75z"/>
+	<line class="st7" x1="526" y1="639" x2="525" y2="637.79"/>
+	<line class="st7" x1="393.77" y1="478.5" x2="393.5" y2="478.17"/>
+	<polyline class="st7" points="414,468 405.26,467.75 393.5,467.41 	"/>
+	<line class="st7" x1="394" y1="467" x2="394" y2="478"/>
+	<line class="st7" x1="391.11" y1="480.89" x2="391" y2="481"/>
+	<polygon class="st8" points="393.51,478.49 391.11,480.89 380,467 380.04,466 393.5,466 	"/>
+	<line class="st7" x1="380.04" y1="466" x2="380" y2="466"/>
+</g>
+</svg>

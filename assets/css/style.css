@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 991px) {
   #header .logo h1 {
     font-size: 28px;
-    padding: 8px 0;
+    /* padding: 8px 0; */
   }
 }
 
@@ -158,9 +158,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
+  width:20%;
   padding: 0;
   margin: 7px 0;
-  max-height: 26px;
+  max-height: 35px;
 }
 
 /*--------------------------------------------------------------
