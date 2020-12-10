@@ -373,7 +373,8 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   background: url("../img/intro-bg.png") center bottom no-repeat;
   background-size: cover;
-  padding: 200px 0 120px 0;
+  padding: 160px 0 120px 0; 
+  max-height: 100vh;
 }
 
 @media (max-width: 991px) {
@@ -426,6 +427,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 40px;
   font-size: 48px;
   font-weight: 700;
+  margin-top:12%;
 }
 
 #intro .intro-info h2 span {
